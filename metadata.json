@@ -1,0 +1,6 @@
+{
+  "name": "GraphPulse",
+  "description": "High-performance GraphQL-only client-server data ingestion, exploration, load governance, and distributed tracing platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
